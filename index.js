@@ -26,5 +26,5 @@ else if (string.toUpperCase === uppercase) {
 
 
 
-  
+
 }
